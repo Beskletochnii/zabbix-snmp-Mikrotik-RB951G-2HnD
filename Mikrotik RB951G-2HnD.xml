@@ -13,7 +13,7 @@
             <name>Mikrotik - RB951G-2HnD</name>
             <groups>
                 <group>
-                    <name>Templates</name>
+                    <name>Templates/Network devices</name>
                 </group>
             </groups>
             <applications>
